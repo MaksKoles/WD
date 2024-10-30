@@ -1,0 +1,45 @@
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-indent: 50px;
+}
+.nav-link{
+    padding: 10px; 
+    border: 4px solid #29f505; /* толщина и цвет рамки */ 
+    margin: 0 5px; /* отступы между элементами */ 
+    text-decoration: none; /* убрать подчеркивание */
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.nav-link2{
+    padding: 10px; 
+    border: 4px solid #7d05f5; /* толщина и цвет рамки */ 
+    margin: 0 5px; /* отступы между элементами */ 
+    text-decoration: none; /* убрать подчеркивание */
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.black{
+    background-color: black;
+}
+.social-links { 
+    text-align: center; 
+    margin-top: 50px; 
+} 
+.social-links a { 
+    margin: 0 10px; 
+    text-decoration: none; 
+    color: whitesmoke; 
+    font-size: 24px; 
+}
