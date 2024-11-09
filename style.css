@@ -1,0 +1,52 @@
+h1 {
+     color: red;
+}
+
+.link-special-link {
+    color: blue;
+}
+
+.nav-list .link {
+    color: green;
+}
+
+#first-post {
+    color: orange;
+}
+
+.post {
+    color: purple;
+}
+
+.highlighted {
+    color: black;
+}
+ul li {
+    color: gray;
+}
+
+.widget h3 {
+    color: pink;
+}
+
+.widget-important-widget {
+    color: maroon;
+}
+
+[placeholder="Белый"] {
+    color: black;
+    background-color: white;
+}
+
+.submit-btn {
+    background-color: black;
+    color: white;
+}
+
+.color-band {
+    color: brown;
+}
+
+.second-link {
+    color: yellow;
+}
